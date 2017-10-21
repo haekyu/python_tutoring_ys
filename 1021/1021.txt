@@ -1,0 +1,44 @@
+* 자료구조
+	+ dictionary
+	+ list
+		- Stack
+			+ "first in, last out"
+			+ "last in, first out"
+				ex) 인터넷 뒤로 가기
+				ex) 문자 입력하고 back space
+		- Queue
+			+ "first in, first out"
+			ex) 오래된 메일 지우기
+* 입출력
+	- 사용자 입출력
+		- 사용자 입력: input()
+			input이라는 함수는 keyboard입력을 받는 함수
+			ex) your_fvr = input()
+		- 사용자 출력: print()
+	- 파일 입출력
+		- 파일 입력
+			ex) text 파일 읽기
+			f = open(<파일 이름>)
+			lst = f.readlines()
+			f.close()
+			print(lst)
+		- 파일 출력
+			ex) text 파일로 저장하기
+
+* Indent
+	+ tab
+
+* list의 slicing
+	* ex) lst = ['a', 'b', 'c']
+	* lst[from: to + 1]
+	* lst[1: 3] == ['b', 'c']
+
+
+* 괄호
+	- []
+		* index 넣을 때
+		* ex) lst = ['a', 'b', 'c']
+			0번째 위치 --> lst[0]
+	- {}
+	- ()
+		* 함수
