@@ -84,7 +84,7 @@ def mk_word_dict(word_lst):
 			word_dict[????] = []
 
 		# Add the word into the word dictionary
-		word_dict[????].append()
+		word_dict[????].append(???)
 
 	# Retrun the dictionary
 	return ????
