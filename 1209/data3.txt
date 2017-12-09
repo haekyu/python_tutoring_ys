@@ -1,0 +1,4 @@
+Name	Age	Gender
+Chul	10	Female
+Youn	22	Male
+Leee	33	Male
