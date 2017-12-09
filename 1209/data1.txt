@@ -1,3 +1,4 @@
 Name	Age	Gender
 Chul	10	Female
 Youn	22	Male
+Chul	10	Female
